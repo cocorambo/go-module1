@@ -1,0 +1,3 @@
+github.com/cocorambo/go-module1 v0.0.0-20200206172527-d3804729d44e/go.mod h1:hNhpM8OlHko9OktMWghQ80wqx/lC7l7rR1s/CXdMZ5w=
+github.com/cocorambo/go-module2 v0.0.0-20200207090749-5b9ffb398006 h1:L/pe+SyMUb59zbdCZn3uqXsGp9cpx2jnAQpxwyOsr1k=
+github.com/cocorambo/go-module2 v0.0.0-20200207090749-5b9ffb398006/go.mod h1:jLMAn3IwqYkumf71BhFZFusQ4G4ghCjwFCA/yrYE7h0=

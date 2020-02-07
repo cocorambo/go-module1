@@ -1,6 +1,8 @@
 package module1
 
-import "fmt"
+import (
+	"fmt"
+)
 
 const ModuleName = "Go module 1"
 
